@@ -7,7 +7,10 @@ Code and examples for LED water bottle with glue, chess package and Arduino Nano
 <img src='./R.jpg'/>
 
 Scheme:
-D11 - R
-D10 - G
-D9 - B
-GND Nano - negative LED
+<ul>
+<li>D11 - R
+<li>D10 - G
+<li>D9 - B
+<li>GND Nano - negative LED
+ </ul>
+
